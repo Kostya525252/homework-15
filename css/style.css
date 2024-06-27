@@ -1,0 +1,20 @@
+.holder {
+    display: flex;
+    border: 5px solid blue;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+
+}
